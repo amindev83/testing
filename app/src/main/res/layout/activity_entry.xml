@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView
+        android:id="@+id/error_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp" />
+
+
+
+    <com.github.ybq.android.spinkit.SpinKitView
+        android:id="@+id/entry_activity_progress"
+        style="@style/SpinKitView.Large.Circle"
+        android:layout_width="@dimen/_50sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:layout_gravity="center|center_vertical"
+        app:SpinKit_Color="@color/white"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+</FrameLayout>

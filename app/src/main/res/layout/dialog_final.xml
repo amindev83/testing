@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@color/white">
+
+    <com.nooshindroid.yastashir.CustomTextView
+        android:id="@+id/titr"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_alignParentTop="true"
+        android:padding="@dimen/_5sdp"
+        android:gravity="center"
+        android:text="@string/rateTitle"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_20sdp"
+        android:textStyle="bold"
+        app:fonttt="Sahel.ttf"/>
+
+
+
+
+    <com.nooshindroid.yastashir.CustomTextView
+        android:id="@+id/desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titr"
+        android:gravity="center"
+        android:lineSpacingExtra="@dimen/_2sdp"
+        android:padding="@dimen/_10sdp"
+        app:fonttt="Sahel.ttf"
+        android:text="@string/rateUs"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_18sdp"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/desc">
+
+        <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/rateBanner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:visibility="gone"
+            ads:adSize="MEDIUM_RECTANGLE"
+            ads:adUnitId="@string/admob_rate_banner"></com.google.android.gms.ads.AdView>
+
+    </RelativeLayout>
+
+    <RatingBar
+        android:id="@+id/ratee"
+       android:theme="@style/CustomRatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/banner"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:numStars="5"
+        android:layoutDirection="ltr"
+        android:progressTint="@color/yellow">
+
+    </RatingBar>
+</RelativeLayout>

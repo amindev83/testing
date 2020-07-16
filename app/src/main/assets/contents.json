@@ -1,0 +1,763 @@
+{
+  "android_play_store_link": "",
+  "sticker_packs": [
+  {
+      "identifier": "agent001",
+      "name": "agent001",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Agent001.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "01_agent001.webp"
+        },
+        {
+          "image_file": "02_agent001.webp"
+        },
+        {
+          "image_file": "03_agent001.webp"
+        },
+        {
+          "image_file": "04_agent001.webp"
+        },
+        {
+          "image_file": "05_agent001.webp"
+        },
+        {
+          "image_file": "06_agent001.webp"
+        },
+        {
+          "image_file": "07_agent001.webp"
+        },
+        {
+          "image_file": "08_agent001.webp"
+        },
+        {
+          "image_file": "09_agent001.webp"
+        },
+        {
+          "image_file": "10_agent001.webp"
+        },
+        {
+          "image_file": "11_agent001.webp"
+        },
+        {
+          "image_file": "12_agent001.webp"
+        },
+        {
+          "image_file": "13_agent001.webp"
+        },
+        {
+          "image_file": "14_agent001.webp"
+        },
+        {
+          "image_file": "15_agent001.webp"
+        },
+        {
+          "image_file": "16_agent001.webp"
+        },
+        {
+          "image_file": "17_agent001.webp"
+        },
+        {
+          "image_file": "18_agent001.webp"
+        }
+        
+      ]
+    },
+	{
+      "identifier": "agent002",
+      "name": "agent002",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Agent002.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "01_agent002.webp"
+        },
+        {
+          "image_file": "02_agent002.webp"
+        },
+        {
+          "image_file": "03_agent002.webp"
+        },
+        {
+          "image_file": "04_agent002.webp"
+        },
+        {
+          "image_file": "05_agent002.webp"
+        },
+        {
+          "image_file": "06_agent002.webp"
+        },
+        {
+          "image_file": "07_agent002.webp"
+        },
+        {
+          "image_file": "08_agent002.webp"
+        },
+        {
+          "image_file": "09_agent002.webp"
+        },
+        {
+          "image_file": "10_agent002.webp"
+        },
+        {
+          "image_file": "11_agent002.webp"
+        },
+        {
+          "image_file": "12_agent002.webp"
+        },
+        {
+          "image_file": "13_agent002.webp"
+        },
+        {
+          "image_file": "14_agent002.webp"
+        },
+        {
+          "image_file": "15_agent002.webp"
+        },
+        {
+          "image_file": "16_agent002.webp"
+        },
+        {
+          "image_file": "17_agent002.webp"
+        },
+        {
+          "image_file": "18_agent002.webp"
+        }
+        
+      ]
+    },
+		{
+      "identifier": "agent003",
+      "name": "agent003",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Agent003.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "01_agent003.webp"
+        },
+        {
+          "image_file": "02_agent003.webp"
+        },
+        {
+          "image_file": "03_agent003.webp"
+        },
+        {
+          "image_file": "04_agent003.webp"
+        },
+        {
+          "image_file": "05_agent003.webp"
+        },
+        {
+          "image_file": "06_agent003.webp"
+        },
+        {
+          "image_file": "07_agent003.webp"
+        },
+        {
+          "image_file": "08_agent003.webp"
+        },
+        {
+          "image_file": "09_agent003.webp"
+        }
+        
+      ]
+    },
+		{
+      "identifier": "agent004",
+      "name": "agent004",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Agent004.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "01_agent004.webp"
+        },
+        {
+          "image_file": "02_agent004.webp"
+        },
+        {
+          "image_file": "03_agent004.webp"
+        },
+        {
+          "image_file": "04_agent004.webp"
+        },
+        {
+          "image_file": "05_agent004.webp"
+        },
+        {
+          "image_file": "06_agent004.webp"
+        },
+        {
+          "image_file": "07_agent004.webp"
+        },
+        {
+          "image_file": "08_agent004.webp"
+        },
+        {
+          "image_file": "09_agent004.webp"
+        },
+        {
+          "image_file": "10_agent004.webp"
+        },
+        {
+          "image_file": "11_agent004.webp"
+        },
+        {
+          "image_file": "12_agent004.webp"
+        },
+        {
+          "image_file": "13_agent004.webp"
+        }
+        
+      ]
+    },
+	{
+      "identifier": "agent005",
+      "name": "agent005",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Agent005.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "01_agent005.webp"
+        },
+        {
+          "image_file": "02_agent005.webp"
+        },
+        {
+          "image_file": "03_agent005.webp"
+        },
+        {
+          "image_file": "04_agent005.webp"
+        },
+        {
+          "image_file": "05_agent005.webp"
+        },
+        {
+          "image_file": "06_agent005.webp"
+        },
+        {
+          "image_file": "07_agent005.webp"
+        },
+        {
+          "image_file": "08_agent005.webp"
+        },
+        {
+          "image_file": "09_agent005.webp"
+        },
+        {
+          "image_file": "10_agent005.webp"
+        },
+        {
+          "image_file": "11_agent005.webp"
+        },
+        {
+          "image_file": "12_agent005.webp"
+        },
+		{
+          "image_file": "13_agent005.webp"
+        },
+		{
+          "image_file": "14_agent005.webp"
+        },
+		{
+          "image_file": "15_agent005.webp"
+        },
+		{
+          "image_file": "16_agent005.webp"
+        },
+		{
+          "image_file": "17_agent005.webp"
+        },
+		{
+          "image_file": "18_agent005.webp"
+        },
+		{
+          "image_file": "19_agent005.webp"
+        },
+        {
+          "image_file": "20_agent005.webp"
+        }
+        
+      ]
+    },
+	{
+      "identifier": "agent006",
+      "name": "agent006",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Agent006.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "01_agent006.webp"
+        },
+        {
+          "image_file": "02_agent006.webp"
+        },
+        {
+          "image_file": "03_agent006.webp"
+        },
+        {
+          "image_file": "04_agent006.webp"
+        },
+        {
+          "image_file": "05_agent006.webp"
+        },
+        {
+          "image_file": "06_agent006.webp"
+        },
+        {
+          "image_file": "07_agent006.webp"
+        },
+        {
+          "image_file": "08_agent006.webp"
+        },
+        {
+          "image_file": "09_agent006.webp"
+        },
+        {
+          "image_file": "10_agent006.webp"
+        },
+        {
+          "image_file": "11_agent006.webp"
+        },
+        {
+          "image_file": "12_agent006.webp"
+        },
+        {
+          "image_file": "13_agent006.webp"
+        },
+        {
+          "image_file": "14_agent006.webp"
+        },
+        {
+          "image_file": "15_agent006.webp"
+        },
+        {
+          "image_file": "16_agent006.webp"
+        }
+        
+      ]
+    },
+	
+    {
+      "identifier": "agent007",
+      "name": "agent007",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Agent007.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "01_agent007.webp"
+        },
+        {
+          "image_file": "02_agent007.webp"
+        },
+        {
+          "image_file": "03_agent007.webp"
+        },
+        {
+          "image_file": "04_agent007.webp"
+        },
+        {
+          "image_file": "05_agent007.webp"
+        },
+        {
+          "image_file": "06_agent007.webp"
+        },
+        {
+          "image_file": "07_agent007.webp"
+        },
+        {
+          "image_file": "08_agent007.webp"
+        },
+        {
+          "image_file": "09_agent007.webp"
+        }
+      ]
+    },
+	    {
+      "identifier": "agent008",
+      "name": "agent008",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Agent008.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "01_agent008.webp"
+        },
+        {
+          "image_file": "02_agent008.webp"
+        },
+        {
+          "image_file": "03_agent008.webp"
+        },
+        {
+          "image_file": "04_agent008.webp"
+        },
+        {
+          "image_file": "05_agent008.webp"
+        },
+        {
+          "image_file": "06_agent008.webp"
+        },
+        {
+          "image_file": "07_agent008.webp"
+        },
+        {
+          "image_file": "08_agent008.webp"
+        },
+        {
+          "image_file": "09_agent008.webp"
+        },
+        {
+          "image_file": "10_agent008.webp"
+        },
+        {
+          "image_file": "11_agent008.webp"
+        },
+        {
+          "image_file": "12_agent008.webp"
+        }
+      ]
+    },
+		{
+      "identifier": "agent009",
+      "name": "agent009",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Agent009.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+
+      "stickers": [
+        {
+          "image_file": "01_agent009.webp"
+        },
+        {
+          "image_file": "02_agent009.webp"
+        },
+        {
+          "image_file": "03_agent009.webp"
+        },
+        {
+          "image_file": "04_agent009.webp"
+        },
+        {
+          "image_file": "05_agent009.webp"
+        },
+        {
+          "image_file": "06_agent009.webp"
+        },
+        {
+          "image_file": "07_agent009.webp"
+        },
+        {
+          "image_file": "08_agent009.webp"
+        },
+        {
+          "image_file": "09_agent009.webp"
+        },
+        {
+          "image_file": "10_agent009.webp"
+        },
+        {
+          "image_file": "11_agent009.webp"
+        },
+        {
+          "image_file": "12_agent009.webp"
+        },
+        {
+          "image_file": "13_agent009.webp"
+        },
+        {
+          "image_file": "14_agent009.webp"
+        },
+        {
+          "image_file": "15_agent009.webp"
+        },
+        {
+          "image_file": "16_agent009.webp"
+        }
+        
+      ]
+    },
+	{
+      "identifier": "gur13",
+      "name": "gur13",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Gurl3.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "50_gurl.webp"
+        },
+        {
+          "image_file": "51_gurl.webp"
+        },
+        {
+          "image_file": "52_gurl.webp"
+        },
+        {
+          "image_file": "53_gurl.webp"
+        },
+        {
+          "image_file": "54_gurl.webp"
+        },
+        {
+          "image_file": "55_gurl.webp"
+        },
+        {
+          "image_file": "56_gurl.webp"
+        },
+        {
+          "image_file": "57_gurl.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "gurl",
+      "name": "gurl",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Gurl.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_gurl.webp"
+        },
+        {
+          "image_file": "02_gurl.webp"
+        },
+        {
+          "image_file": "03_gurl.webp"
+        },
+        {
+          "image_file": "04_gurl.webp"
+        },
+        {
+          "image_file": "05_gurl.webp"
+        },
+        {
+          "image_file": "06_gurl.webp"
+        },
+        {
+          "image_file": "07_gurl.webp"
+        },
+        {
+          "image_file": "08_gurl.webp"
+        },
+        {
+          "image_file": "09_gurl.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "gurl2",
+      "name": "Gurl2",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Gurl2.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31_gurl.webp"
+        },
+        {
+          "image_file": "32_gurl.webp"
+        },
+        {
+          "image_file": "33_gurl.webp"
+        },
+        {
+          "image_file": "34_gurl.webp"
+        },
+        {
+          "image_file": "35_gurl.webp"
+        },
+        {
+          "image_file": "36_gurl.webp"
+        },
+        {
+          "image_file": "37_gurl.webp"
+        },
+        {
+          "image_file": "38_gurl.webp"
+        },
+		{
+          "image_file": "39_gurl.webp"
+        },
+		{
+          "image_file": "40_gurl.webp"
+        },
+		{
+          "image_file": "41_gurl.webp"
+        },
+        {
+          "image_file": "42_gurl.webp"
+        }
+      ]
+    },
+	{
+      "identifier": "gurl3",
+      "name": "gurl3",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Gurl3.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31_gurl3.webp"
+        },
+        {
+          "image_file": "32_gurl3.webp"
+        },
+        {
+          "image_file": "33_gurl3.webp"
+        },
+        {
+          "image_file": "34_gurl3.webp"
+        },
+        {
+          "image_file": "35_gurl3.webp"
+        },
+        {
+          "image_file": "36_gurl3.webp"
+        },
+        {
+          "image_file": "37_gurl3.webp"
+        },
+        {
+          "image_file": "38_gurl3.webp"
+        },
+		{
+          "image_file": "39_gurl3.webp"
+        }
+      ]
+    },
+	{
+      "identifier": "gurl4",
+      "name": "gurl4",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Gurl4.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31_gurl4.webp"
+        },
+        {
+          "image_file": "32_gurl4.webp"
+        },
+        {
+          "image_file": "33_gurl4.webp"
+        },
+        {
+          "image_file": "34_gurl4.webp"
+        },
+        {
+          "image_file": "35_gurl4.webp"
+        },
+        {
+          "image_file": "36_gurl4.webp"
+        },
+        {
+          "image_file": "37_gurl4.webp"
+        },
+        {
+          "image_file": "38_gurl4.webp"
+        },
+		{
+          "image_file": "39_gurl4.webp"
+        }
+      ]
+    },
+	{
+      "identifier": "gurl5",
+      "name": "gurl5",
+      "publisher": "chankruze",
+      "tray_image_file": "tray_Gurl5.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31_gurl5.webp"
+        },
+        {
+          "image_file": "32_gurl5.webp"
+        },
+        {
+          "image_file": "33_gurl5.webp"
+        },
+        {
+          "image_file": "34_gurl5.webp"
+        },
+        {
+          "image_file": "35_gurl5.webp"
+        },
+        {
+          "image_file": "36_gurl5.webp"
+        },
+        {
+          "image_file": "37_gurl5.webp"
+        },
+        {
+          "image_file": "38_gurl5.webp"
+        },
+		{
+          "image_file": "39_gurl5.webp"
+        }
+      ]
+    }
+  ]
+}

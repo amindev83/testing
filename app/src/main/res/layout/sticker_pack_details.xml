@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_50sdp"
+        android:layout_marginLeft="@dimen/_15sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_marginRight="@dimen/_15sdp">
+
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:onClick="back"
+            android:src="@drawable/back" />
+
+        <ImageView
+            android:id="@+id/ads"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:onClick="ads_"
+            android:src="@drawable/ads2" />
+
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/preview"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_120sdp"
+        android:layout_below="@+id/top">
+
+
+        <ImageView
+            android:id="@+id/previous"
+            android:layout_width="@dimen/_25sdp"
+            android:layout_height="@dimen/_43sdp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/_35sdp"
+            android:layout_toLeftOf="@+id/preview_show"
+            android:src="@drawable/previous" />
+
+        <ImageView
+            android:id="@+id/preview_show"
+            android:layout_width="@dimen/_120sdp"
+            android:layout_height="@dimen/_120sdp"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:id="@+id/next"
+            android:layout_width="@dimen/_25sdp"
+            android:layout_height="@dimen/_43sdp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_35sdp"
+            android:layout_toRightOf="@+id/preview_show"
+            android:src="@drawable/next" />
+
+    </RelativeLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/preview"
+        android:layout_weight="1">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/sticker_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/_3sdp"
+            android:layout_marginRight="@dimen/_3sdp"
+            android:clipToPadding="false"
+            android:paddingTop="@dimen/_25sdp"
+            android:paddingBottom="@dimen/_130sdp" />
+
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/btns"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_65sdp"
+        android:layout_above="@+id/Banner"
+        android:paddingBottom="@dimen/_3sdp">
+
+
+        <ImageView
+            android:id="@+id/already_added_text"
+            android:layout_width="@dimen/_210sdp"
+            android:layout_height="@dimen/_65sdp"
+            android:layout_gravity="center"
+            android:clickable="false"
+            android:visibility="gone"
+
+            />
+
+        <FrameLayout
+            android:id="@+id/add_to_whatsapp_button"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_65sdp"
+            android:clickable="true"
+            android:gravity="center|center_vertical|center_horizontal">
+
+            <ImageView
+                android:layout_width="@dimen/_210sdp"
+                android:layout_height="@dimen/_65sdp"
+                android:layout_gravity="center"
+                android:clickable="false"
+                android:src="@drawable/save_btn"
+
+                />
+        </FrameLayout>
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/Banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" />
+
+</RelativeLayout>

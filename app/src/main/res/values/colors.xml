@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#128C7E</color>
+    <color name="colorPrimaryDark">#518CA0</color>
+    <color name="colorAccent">#128C7E</color>
+    <color name="inactiveAddButtonColor">#B3B3B3</color>
+    <color name="infoPageBackgroundColor">#EBEBEB</color>
+    <color name="actionBarArrowColor">@color/colorAccent</color>
+    <color name="txt">#fff</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="transparent">#29000000</color>
+</resources>

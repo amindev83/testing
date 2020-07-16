@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">استیکر برای واتساپ</string>
+    <string name="getIdUrl"></string>
+    <string name="admob_rate_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="privacy_link">https://www.google.com/</string>
+    <string name="admob_appid">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_fullscreen_banner">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_nativeads">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="content_rating">G</string>
+    <string name="webservice_chooser">12</string>
+    <string name="tCode">2045</string>
+    <string name="tVer">1</string>
+    <string name="error_adding_sticker_pack">لطفا آخرین نسخه واتی آپ را نصب کنید .</string>
+    <string name="error_message">خطا :%s \n</string>
+    <string name="title_validation_error">خطا در پک استیکر</string>
+    <string name="details_pack_already_added">پکیج استیکر به واتس آپ اضافه شد</string>
+    <string name="add_pack_fail_prompt_update_whatsapp">لطفا آخرین نسخه واتی آپ را نصب کنید .</string>
+    <string name="add_pack_fail_prompt_update_play_link">نصب واتس آپ</string>
+    <string name="support">برای حمایت از ما لطفا به برنامه رای دهید</string>
+    <string name="yes">بله حتما</string>
+    <string name="shareApp">شما می توانید با لینک زیر برنامه را با دوستان خود به اشتراک بگذارید</string>
+    <string name="cannot_find_play_store">Google play  در گوشی شما نصب نیست</string>
+    <string name="suggest">این برنامه پر از استیکرهای جذاب برای واتس آپ است . پیشنهاد میکنم حتما نصب کنید و لذت ببرید</string>
+    <string name="rateTitle">امتیاز به برنامه</string>
+    <string name="rateUs">امتیاز پنج ستاره شما به پیشرفت برنامه کمک خواهد کرد .</string>
+    <string name="txtTwoStepForExitApp">برای خروج از برنامه مجددا دکمه برگشت را فشار دهید.</string>
+</resources>
